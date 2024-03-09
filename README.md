@@ -1,16 +1,15 @@
 # expensestackingappfirebase
 
-A new Flutter project.
+![1](1.png)
 
-## Getting Started
+![2](2.png)
 
-This project is a starting point for a Flutter application.
+![3](3.png)
 
-A few resources to get you started if this is your first Flutter project:
+![4](4.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![5](5.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![6](6.png)
+
+![7](7.png)
